@@ -72,21 +72,21 @@ const Home = () => (
           About me
         </Heading>
         🌟 In July 2023, I arrived in Japan in pursuit of an international career in a developed country.
-        Currently, I'm working outside my field, but I'm actively seeking remote opportunities to get back to doing what I love.
+        Currently, I&apos;m working outside my field, but I&apos;m actively seeking remote opportunities to get back to doing what I love.
         <br/>
         <br/>
         📌Current visa status: Spouse visa holder.
         <br/>
-        🇧🇷 I’m Brazilian
+        🇧🇷 I&apos;m Brazilian
         <br/>
         <br/>
-        🚀 I'm a technology enthusiast who chose the path of a Full Stack Developer because I've always had a passion for tools that could make people's lives easier. I'm constantly seeking opportunities to learn and grow. I have a genuine love for teamwork and sharing knowledge with my colleagues.
+        🚀 I&apos; a technology enthusiast who chose the path of a Full Stack Developer because I&apos;ve always had a passion for tools that could make people&apos;s lives easier. I&apos;m constantly seeking opportunities to learn and grow. I have a genuine love for teamwork and sharing knowledge with my colleagues.
         <br/>
         <br/>
-        🎯 My goal is to contribute to projects that can be used by many people and add value. An interesting fact about me is that, in addition to my programming language affinity, I also have a great love for learning new languages. Currently, I can hold conversations in English, and I'm in the process of building proficiency in Japanese.
+        🎯 My goal is to contribute to projects that can be used by many people and add value. An interesting fact about me is that, in addition to my programming language affinity, I also have a great love for learning new languages. Currently, I can hold conversations in English, and I&apos;m in the process of building proficiency in Japanese.
         <br/>
         <br/>
-        💡 I strongly believe that technology is an incredible tool for connecting people and ideas, and I'm always looking for ways to expand my knowledge and collaborate meaningfully. I'm excited about what the future holds in my career journey.
+        💡 I strongly believe that technology is an incredible tool for connecting people and ideas, and I&apos;m always looking for ways to expand my knowledge and collaborate meaningfully. I&apos;m excited about what the future holds in my career journey.
       </Section>
 
       <Section delay={0.2}>
