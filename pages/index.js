@@ -80,7 +80,7 @@ const Home = () => (
         🇧🇷 I&apos;m Brazilian
         <br/>
         <br/>
-        🚀 I&apos; a technology enthusiast who chose the path of a Full Stack Developer because I&apos;ve always had a passion for tools that could make people&apos;s lives easier. I&apos;m constantly seeking opportunities to learn and grow. I have a genuine love for teamwork and sharing knowledge with my colleagues.
+        🚀 I&apos;m a technology enthusiast who chose the path of a Full Stack Developer because I&apos;ve always had a passion for tools that could make people&apos;s lives easier. I&apos;m constantly seeking opportunities to learn and grow. I have a genuine love for teamwork and sharing knowledge with my colleagues.
         <br/>
         <br/>
         🎯 My goal is to contribute to projects that can be used by many people and add value. An interesting fact about me is that, in addition to my programming language affinity, I also have a great love for learning new languages. Currently, I can hold conversations in English, and I&apos;m in the process of building proficiency in Japanese.
